@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Introduction
-This project is a content-based movie recommendation system developed while learning Machine Learning concepts.
+This project is a content-based movie recommendation system developed while learning Machine Learning and NLp concepts.
 
 The system recommends movies similar to the selected movie by analyzing movie-related features and converting textual information into vectors using CountVectorizer.
 
